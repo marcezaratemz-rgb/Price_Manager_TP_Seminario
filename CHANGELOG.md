@@ -32,3 +32,8 @@
   * Implementación de console.py con clases de consola para cada entidad.
   * Menús interactivos con validación de entrada y mensajes de error amigables.
   * Operaciones CRUD completas accesibles desde la consola para todas las entidades.
+
+###  Día 7 — Ejercicio 07: Archivo main.py y pruebas de integración
+  * Implementación de main.py con composición de dependencias y arranque del sistema.
+  * Soporte al parámetro import_default_data para precarga al iniciar.
+  * Validación de pruebas de integración del notebook.

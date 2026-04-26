@@ -22,3 +22,8 @@
   * Implementación de services.py con servicios para cada entidad del dominio.
   * Validaciones de negocio: stock no puede quedar negativo, relaciones entre entidades verificadas antes de la creación.
   * Método actualizar_precio y registrar_movimiento con lógica de negocio.
+
+###  Día 5 — Ejercicio 05: Archivos de importación de datos (migrations/csv)
+  * Implementación de preload_data.py con función cargar_datos_iniciales.
+  * Datos precargados: 10 categorías, 10 proveedores, 10 monedas, 7 tipos de cotización, 10 productos, registros de stock y 10 cotizaciones históricas.
+  * La precarga es idempotente: solo carga si los CSV están vacíos o no existen.

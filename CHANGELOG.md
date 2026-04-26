@@ -17,3 +17,8 @@
   * Repositorios concretos: RepositorioCategoria, RepositorioProveedor, RepositorioMoneda, RepositorioTipoCotizacion, RepositorioProducto, RepositorioStock y RepositorioCotizacionDolar.
 ",
   * CRUD completo en cada repositorio con persistencia en archivos CSV.
+
+###  Día 4 — Ejercicio 04: Capa de servicios con lógica de negocio
+  * Implementación de services.py con servicios para cada entidad del dominio.
+  * Validaciones de negocio: stock no puede quedar negativo, relaciones entre entidades verificadas antes de la creación.
+  * Método actualizar_precio y registrar_movimiento con lógica de negocio.

@@ -1,0 +1,11 @@
+id,nombre,descripcion,precio_valor,precio_moneda_id,precio_fecha,categoria_id,proveedor_id
+101,RTX 4090,24GB GDDR6X,1800.0,2,2023-10-01,1,1
+102,Ryzen 9 7950X,16-Core 4.5 GHz,600.0,2,2023-10-01,2,5
+103,Core i9 13900K,24-Core 5.8 GHz,580.0,2,2023-10-01,2,6
+104,B650 AORUS ELITE AX,AM5 ATX,200.0,2,2023-10-01,3,1
+105,Vengeance 32GB,DDR5 6000MHz,120.0,2,2023-10-01,4,7
+106,980 PRO 1TB,NVMe PCIe 4.0,80.0,2,2023-10-01,5,10
+107,RM850x,850W 80+ Gold,140.0,2,2023-10-01,6,7
+108,Monitor Odyssey G5,27p 144Hz,300.0,2,2023-10-01,8,10
+109,Teclado G Pro,Mecanico TKL,110.0,2,2023-10-01,9,9
+110,G Pro X Superlight,Mouse Wireless,140.0,2,2023-10-01,9,9

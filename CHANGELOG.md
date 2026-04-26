@@ -27,3 +27,8 @@
   * Implementación de preload_data.py con función cargar_datos_iniciales.
   * Datos precargados: 10 categorías, 10 proveedores, 10 monedas, 7 tipos de cotización, 10 productos, registros de stock y 10 cotizaciones históricas.
   * La precarga es idempotente: solo carga si los CSV están vacíos o no existen.
+
+### Día 6 — Ejercicio 06: Interfaz gráfica de consola (CLI)
+  * Implementación de console.py con clases de consola para cada entidad.
+  * Menús interactivos con validación de entrada y mensajes de error amigables.
+  * Operaciones CRUD completas accesibles desde la consola para todas las entidades.

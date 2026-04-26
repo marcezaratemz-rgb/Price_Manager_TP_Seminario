@@ -11,3 +11,9 @@
   * Encapsulamiento con propiedades y setters.
   * Validaciones de negocio: precio no negativo, stock >= 0.
   * Type hints y documentación PEP8.
+
+###  Día 3 — Ejercicio 03: Repositorios con persistencia en CSV
+  * Implementación de repositories.py con la interfaz abstracta IRepositorio.
+  * Repositorios concretos: RepositorioCategoria, RepositorioProveedor, RepositorioMoneda, RepositorioTipoCotizacion, RepositorioProducto, RepositorioStock y RepositorioCotizacionDolar.
+",
+  * CRUD completo en cada repositorio con persistencia en archivos CSV.
